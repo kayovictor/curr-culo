@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    border-radius:80%;
+    border: 1px solid black;
+    margin-left: 11px;
+}
+
+#página{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+
+}
+.div01{
+    width: 60%;
+    background-color: #FFFFFF;
+    padding: 5%;
+}
+#cont1{
+    width: 30%;
+    background-color: #19304F;
+    padding: 10% 4% 0 6% ;
+    color: #FFFFFF;
+}
+body{
+    background-color: grey;
+    font-family: 'Roboto', sans-serif;
+}
+.contatos{
+    color: #FFFFFF;
+}
+h1{
+    color: #19304F;
+}
+h2{
+    color: #FFFFFF;
+}
+.Conhecimentos{
+    margin-top: 30px;
+}
+img{
+    width: 15%;
+    height:15%;
+}
+.meunome{
+    display: flex;
+    margin-bottom: 10%;
+}
+#ameixa{
+line-height: 7px;
+margin-left: 11px;
+}
+h2{
+   font-size: 20px;
+   color: #19304F;
+   font-weight: none;
+}
+.Conhecimentos p{
+    border-bottom: #FFFFFF solid 2px;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    margin: 0;
+    text-align: center;
+}
